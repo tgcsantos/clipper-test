@@ -1,4 +1,4 @@
-# clipper-test
+# Clipper-test
 Repository for testing dynamic inference with Clipper [Clipper](http://clipper.ai/)
 
 ## Dynamic Inference (Serving Models in Production via REST)
