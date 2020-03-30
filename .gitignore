@@ -1,0 +1,6 @@
+*.zip
+*.csv
+*.parquet
+.vscode
+*.ipynb_checkpoints
+*.pyc
